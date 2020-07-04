@@ -1,0 +1,22 @@
+# bluespec ignores
+*.bo
+*.ba
+*.bi
+*.cxx
+
+# C ignores
+*.o
+*.so
+
+# generic hardware ignores
+*.hex
+*.bin
+
+# general ignore
+*.log
+~*
+*.sw?
+.DS_Store
+
+# specific to project
+/build
